@@ -1,0 +1,12 @@
+{
+  "name": "collection-combinators",
+  "version": "1.0.0",
+  "factorio_version": "0.17",
+  "title": "Collection Combinators",
+  "author": "Thijs",
+  "description": "Contains a:\n- List Combinator\n- Queue Combinator\n- Stack Combinator",
+  "dependencies": [
+    "base >= 0.17.0",
+    "stdlib >= 1.0.0"
+  ]
+}
